@@ -1,4 +1,28 @@
-header{
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
     background-color: #000000;
     color: white;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+.imagemgaláxia-imagem{
+width: 873x450;
+}
+
